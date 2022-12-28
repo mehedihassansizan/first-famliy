@@ -1,0 +1,110 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0%;
+}
+p{
+    color: grey;
+}
+.section-a{
+    height: 500px;
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.section-a div{
+    float: left;
+    width: 40%;
+    padding-top:30px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding-left: 10px;
+    margin-bottom: 70px;
+    
+}
+h1{
+    font-size: 50px;
+}
+.span-a{
+    color: tomato;
+}
+.div-a a{
+    background-image: linear-gradient(45deg, salmon, tomato);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.div-b img{
+    width: 100%;
+    margin-left: 30px;
+}
+.section-b{
+    height: 600px;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    margin-bottom: 200px;
+
+}
+.section-b div{
+    width: 40%;
+    float: left;
+    margin-left: 80px;
+}
+.div-c img{
+    width: 100%;
+}
+.div-d{
+    padding-left: 30px;
+    
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 20px;
+}
+.div-d a{ 
+    background-image: linear-gradient(45deg, salmon, tomato);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.section-c{
+    height: 500px;
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+
+}
+.section-c div{
+    height: 70%;
+    width: 40%;
+    float: left;
+    box-shadow: 10px 10px 40px grey;
+    padding-left: 25px;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+.div-6{ 
+    margin-left: 100px;
+}
+#uniq{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg, salmon, tomato);
+    border-image-slice: 1;
+}
+#uniq1{
+    border-left: 6px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-weight: 10px;
+    margin-bottom: 10px;
+}
